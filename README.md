@@ -57,6 +57,12 @@ Files included:
 
 # Flashing the Image to SD Card
 
+## Ventoy (Win, macOS, Linux)
+
+Install Ventoy into the SD card using the official [Ventoy tutorial](https://www.ventoy.net/en/doc_start.html).
+
+With Ventoy installed, copy the image to the empty partition.
+
 ## Linux / MacOS
 
 Insert the SD card and identify the device:
