@@ -149,6 +149,39 @@ boot/
  └── extlinux/
       └── extlinux.conf
 ```
+
+--- 
+
+# References
+
+This project was inspired by and benefited from resources from the community working with Intel SoC FPGA boards.
+
+## Metaphysics Computing
+
+The **Metaphysics Computing** YouTube channel provides excellent tutorials and explanations about SoC FPGA development, embedded Linux, and FPGA programming.
+
+Channel:
+
+https://www.youtube.com/@metaphysicscomputing
+
+Many concepts related to **HPS–FPGA communication, embedded Linux environments, and FPGA experimentation** are explored in the channel.
+
+## DE10 Linux Resources
+
+Some configuration references and ideas were also based on the following repository:
+
+https://github.com/zangman/de10-nano/tree/master
+
+Although focused on the **DE10-Nano**, the repository provides useful material for:
+
+- Linux on Intel SoC FPGA
+- HPS configuration
+- Boot process understanding
+- FPGA–HPS interaction
+
+These resources are highly recommended for anyone working with **Intel SoC FPGA platforms**.
+
+
 --- 
 
 # Author
